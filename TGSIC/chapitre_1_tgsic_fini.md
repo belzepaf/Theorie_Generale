@@ -6,7 +6,7 @@
 
 2 L'exigence d'une société économiquement développée est avant tout l'existence d'un réseau de communications rapide et sûr aussi bien à l'intérieur des structures de production qu'entre ces structures. Dans la mesure où le développement économique tend à s'accompagner de la constitution d'appareils politiques qui en garantissent la sécurité, le gouvernement de grands ensembles territoriaux apparaît également comme une des motivations primaires de la communication.
 
-3 La communication est un cas particulier du transport ; notre langage courant emploie d'ailleurs le terme de « communications» pour désigner les routes, les chemins de fer, les canaux ou les lignes aériennes. Afin d'éviter les ambiguïtés, nous emploierons le mot de *transport* pour désigner le transfert de matière ou d'énergie, et nous réserverons celui de *communication* au transfert d'une entité que nous appellerons l'*information* et que nous tenterons de définir plus loin.
+3 La communication est un cas particulier du transport ; notre langage courant emploie d'ailleurs le terme de «communications» pour désigner les routes, les chemins de fer, les canaux ou les lignes aériennes. Afin d'éviter les ambiguïtés, nous emploierons le mot de *transport* pour désigner le transfert de matière ou d'énergie, et nous réserverons celui de *communication* au transfert d'une entité que nous appellerons l'*information* et que nous tenterons de définir plus loin.
 
 *** 
 1. Les deux articles fondamentaux de Shannon sont « A Mathematical Theory of Communication » dans le *Bell System Technicat Journal*, vol. 27, juillet-octobre 1948, et
