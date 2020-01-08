@@ -1,4 +1,4 @@
-###THERMODYNAMIQUE ET ENTROPIE
+### THERMODYNAMIQUE ET ENTROPIE
 
 Les théoriciens de la télécommunication se sont servis d'outils, mathématiques déjà existants, en l'occurrence ceux de la thermody­namique et de la mécanique statistique.
 
