@@ -93,5 +93,3 @@ pays européens à l'adopter en 1856, lui préférant le système Foy-Breguet qu
 <b id="f8">8</b> Nous avons publié sur ces divers points de tres nombreux textes. Voir, dans la bibliographie, *La révolution du livre* (1965), *La faim de lire* (1973), *L'écrit el la communication*(1974). Voir aussi « Communication et développement » dans *Systèmes partiels de communication*(1972).[↩](#a8)
 
 <b id="f9">9</b> La prise de Landrecies et de Condé-sur-Escaut sur les Autrichiens, le 19 juillet 1794.[↩](#a9)
-
-***
