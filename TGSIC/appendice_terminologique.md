@@ -532,5 +532,4 @@ avec les autres.
 
 **vecteur** (*vector*). 1. Segment de droite orienté représentant une grandeur physique. 2, Toute entité physique transportant l'information dans une ou plusieurs directions données.
 
-
 **voie** (*circuit*). Partie du canal qui relie le dispositif d'émission au dispositif de *réception*. 
