@@ -13,11 +13,11 @@ Un code est un répertoire de signes conventionnels (ou pouvant être décrits c
 2. Les signifiants sont par eux-mêmes équiprobables et les variations de probabilité qui caractérisent les émissions de signes correspondant aux messages, dépendent uniquement des contraintes que font peser sur le signifié la nécessité d'inscrire telle ou telle information provenant d'une source toujours extérieure au système de codage.
 
 Prenons le cas du code dit « alphabet Morse ». Il a constitué d'emblée une solution empirique quasi optimale, compte tenu des canaux dont on disposait à cette époque. Fonctionnant sur le principe du « tout ou rien », il résiste d'autant mieux au bruit qu'il peut utiliser le bruit comme support pour les signes. En effet il joue sur un système binaire de deux « états » qui peuvent éventuellement être la présence d'énergie (signal) ou l'absence d'énergie (silence) sur le conducteur. Il joue également sur la durée, ce qui lui permet de produire cinq *symboles* (éléments non signifiants de signes) très reconnaissables:
-+ le point: signal de 1/24 de seconde
-+ le trait: signal de 3/24 de seconde
-+ le blanc court: silence de 1/24 de seconde
++ le point : signal de 1/24 de seconde
++ le trait : signal de 3/24 de seconde
++ le blanc court : silence de 1/24 de seconde
 + le blanc moyen : silence de 3/24 de seconde
-+ le blanc long: silence de 6/24 de seconde
++ le blanc long : silence de 6/24 de seconde
 
 Si l'on devait considérer le manipulateur comme une source, on pourrait appliquer la formule de Shannon et dire que son entropie est de :
 
@@ -68,7 +68,7 @@ Notons que la formule de Shannon reste applicable sous sa forme développée qua
 Cette entropie reste constante dans le cas d'un jeu où l'on remet les cartes dans le paquet. Elle diminue selon la loi définie ci-dessus dans le cas où l'on écarte chaque carte après l'avoir tirée.
 
 Nous avons jusqu'ici envisagé des jeux du type de la « bataille » où les cartes sortent au hasard. Nous pouvons envisager maintenant des jeux où les cartes qui sortent sont choisies en fonction d'une *stratégie* et font l'objet de choix délibérés et responsables de la part du joueur. Soit par exemple une main de whist comprenant 13 cartes différentes dont la liste est supposée connue par un observateur. Si les cartes sont jouées au hasard, cette main est pour l'observateur une source d'entropie <a href="https://www.codecogs.com/eqnedit.php?latex=-\log_2\frac{1}{13}=3,7\textrm{&space;bits}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?-\log_2\frac{1}{13}=3,7\textrm{&space;bits}" title="-\log_2\frac{1}{13}=3,7\textrm{ bits}" /></a>
-Mais la règle du whist est qu'elles soient jouées selon une idée directrice et en fonction de situations qui changent impré­visiblement à chaque coup joué. La probabilité pour une carte donnée de sortir varie selon le jeu des partenaires. La continuité même de la stratégie implique que le choix d'une carte soit lié aux choix effectués précédemment. Un bon joueur doit se souvenir de la séquence des coups joués non seulement par les autres, mais par lui-même. Autrement dit la main de whist est une source à mémoire.
+Mais la règle du whist est qu'elles soient jouées selon une idée directrice et en fonction de situations qui changent imprévisiblement à chaque coup joué. La probabilité pour une carte donnée de sortir varie selon le jeu des partenaires. La continuité même de la stratégie implique que le choix d'une carte soit lié aux choix effectués précédemment. Un bon joueur doit se souvenir de la séquence des coups joués non seulement par les autres, mais par lui-même. Autrement dit la main de whist est une source à mémoire.
 
 Il est évident que la formule de Shannon n'est pas applicable. Au cours
 de la partie, la probabilité de chaque carte varie de <a href="https://www.codecogs.com/eqnedit.php?latex=\frac{1}{13}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{1}{13}" title="\frac{1}{13}" /></a> à 1(certitude) selon le rang dans lequel elle est jouée au cours de la partie et selon la prévisibilité de la séquence de jeu à laquelle elle appartient. L'entropie de la main peut varier de 3,7 bits dans le cas du jeu au hasard à 0 dans le cas où, pour un joueur exercé, la séquence de jeu s'impose de manière si rigoureuse qu'elle est indépendante des réactions des autres joueurs et que chaque carte a une probabilité égale à 1. C'est ce qui arrive quand on « abat son jeu ».
