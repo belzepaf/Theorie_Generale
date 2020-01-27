@@ -220,6 +220,6 @@ Le canal refusait l'information et Calonne n'avait pas tort: les notables sortai
 
 ***
 
-<b id="f1">1</b>. R, BARTHES, *Le degré zéro de l'écriture*, Paris, Seuil, 1953.[↩](#a1)
+<b id="f1">1</b> : R, BARTHES, *Le degré zéro de l'écriture*, Paris, Seuil, 1953.[↩](#a1)
 
-<b id="f2">2</b>. A. MOLES, professeur à l'Université de Strasbourg, sera plusieurs fois cité dans cet ouvrage, car sa formation de physicien et de sociologue, acquise en partie aux Etats-Unis, ainsi que sa forte culture artistique et littéraire, font de lui un des pionniers d'une théorie *générale* de l'information. Son livre, *Théorie de l'information et perception esthétique*, publié en 1958, a été réédité sous une forme révisée en 1972. Voir surtout les sections 1-1-5 et 1-1-6, « Information et originalité » et « La mesure de l'originalité ».[↩](#a2)
+<b id="f2">2</b> : A. MOLES, professeur à l'Université de Strasbourg, sera plusieurs fois cité dans cet ouvrage, car sa formation de physicien et de sociologue, acquise en partie aux Etats-Unis, ainsi que sa forte culture artistique et littéraire, font de lui un des pionniers d'une théorie *générale* de l'information. Son livre, *Théorie de l'information et perception esthétique*, publié en 1958, a été réédité sous une forme révisée en 1972. Voir surtout les sections 1-1-5 et 1-1-6, « Information et originalité » et « La mesure de l'originalité ».[↩](#a2)
