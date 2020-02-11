@@ -95,14 +95,14 @@ Autrement dit, devant une peinture abstraite, l'attitude « gestal­tienne » co
 
 On pourra s'amuser à essayer d'appliquer les notions de Gestalt et de pattern à cette double lecture d'une même séquence phonique proposée plaisamment par Luis d'Antin Van Rooten<sup id="a15">[15](#f15)</sup> :
 
->*Humpty Dumpty*
->*Sat on a wall.*
->*Humpty Dumpty*
+>*Humpty Dumpty*<br>
+>*Sat on a wall.*<br>
+>*Humpty Dumpty*<br>
 >*Had a great fall.*
 
->Un petit d'un petit
->S'étonne aux Halles.
->Un petit d'un petit
+>Un petit d'un petit<br>
+>S'étonne aux Halles.<br>
+>Un petit d'un petit<br>
 >Ah! degrés te fallent!
 
 L'expérience a des implications sur la nature de la poésie qui sont laissées à l'appréciation du lecteur.
