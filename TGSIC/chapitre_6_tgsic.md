@@ -71,11 +71,13 @@ La tentative de Saussure, s'attaquant au cœur du problème, c'est-à­ dire au 
 
 Tout à fait indépendamment, dans les années d'après la Première Guerre mondiale, trois psychologues allemands, Kurt Koffka, Wolfgang Kahler et Max Wertheimer<sup id="a10">[10](#f10)</sup>, proposèrent une nouvelle approche des phénomènes psychologiques de la perception. Le problème posé est que, lorsque nous voyons un arbre, nous ne voyons pas des formes et des couleurs disposées selon un arrangement mathématiquement définissable qui l'identifie comme l'image d'un arbre, mais nous voyons directement un arbre à travers un arrangement de formes et de couleurs qui peut être très éloigné de nos expériences antérieures, comme c'est le cas par exemple dans les dessins d'enfants. En ce cas, on dira que l'arbre est un *Gestalt* (mot-à-mot : une configuration) qui nous donne une des clefs possibles pour la saisie de la donnée, non plus au niveau de la perception élémentaire, mais à celui de l'arrangement significatif constitué en objet. Ainsi comprise, la *Gestalttheorie* est extrêmement productive. Pour prendre un exemple simple, dans la figure 4, l'élément 1 est en général perçu comme un cercle, l'élément 2 est en général perçu comme quatre points disposés en Y, mais l'élément 3 est *toujours* perçu comme un visage : il y a eu production-du *Gestalt* de visage. Il peut arriver d'ailleurs que l'élément 1 donne lieu à la production d'un *Gestalt* de soleil ou de pomme, mais en général, les deux premiers éléments sont définis par référence à une relation mathématique.
 
+![alt text](https://github.com/belzepaf/Theorie_Generale/blob/master/TGSIC/figures/figures/schema4.JPG "Fig.4 Production du Gestalt")
+
 *Figure* 4. **Production du Gestalt**
 
 Disons ici qu'il ne fait aucun doute que le *Gestalt* soit lié à des situations historiques par des références culturelles. On trouvera à la figure 5 ce qui apparaîtrait à la plupart des gens comme un gribouillis indéchiffrable, mais qui, pour un Français de ma génération, produit sans ambiguïté un *Gestalt* d'Hitler.
 
-*Figure* 5. **Le Gestalt d'Hitler**
+![alt text](https://github.com/belzepaf/Theorie_Generale/blob/master/TGSIC/figures/figures/schema5.JPG "Fig.5 Gestalt d'Hitler")*Figure* 5. **Le Gestalt d'Hitler**
 
 On se souviendra que la notion de *Gestalt* est probablement liée à celle de trait pertinent. Quoi qu'il en soit, l'important est ce que le Gestalt est devenu quand il s'est généralisé, notamment quand, fuyant l'hitlérisme, ses inventeurs se sont réfugiés en Amérique.
 
@@ -198,7 +200,7 @@ On notera que le *ou* qui figure dans certaines règles, laisse une certaine *li
 L'application des règles PS permet de construire un certain nombre
 d' « arbres », par exemple :
 
-***Schéma***
+![alt text](https://github.com/belzepaf/Theorie_Generale/blob/master/TGSIC/figures/figures/arbo_chap_6/1.JPG "Arbre 1")
 
 *Le chat boit le lait aigre* n'est qu'une des nombreuses suites de base qu'on peut construire au moyen d'arbres utilisant les règles PS et le vocabulaire ci-dessus. Certaines, très improbables, auront une haute valeur informationnelle, comme par exemple : *le lait boit le chat aigre*.
 
@@ -216,13 +218,15 @@ Elle est polysémique, car elle peut vouloir dire que :
 
 Chacune des deux lectures correspond à un arbre différent:
 
-***Schémas***
+![alt text](https://github.com/belzepaf/Theorie_Generale/blob/master/TGSIC/figures/figures/arbo_chap_6/2.JPG "Arbre 2")
+
+![alt text](https://github.com/belzepaf/Theorie_Generale/blob/master/TGSIC/figures/figures/arbo_chap_6/3.JPG "Arbre 3")
 
 On dira qu'à deux structures de surface (énoncé final) identiques correspondent deux structures profondes (tracé de l'arbre) différentes. On pourra donc admettre que l'apport sémantique (les phrases sont sémantiquement différentes) se fait non seulement au niveau du choix des éléments terminaux (lexique), mais aussi au niveau de celui des éléments non terminaux dont la récriture engendre la structure profonde.
 
 Considérons maintenant l'énoncé initial: *le chat trouve le lait aigre*, tel que nous l'avons lu dans l'arbre *b*, et comparons-le à l'énoncé que nous en avons fait pour l'expliciter: *le chat trouve que le lait est aigre*. Les deux énoncés sont synonymes, c'est-à-dire sémantiquement équi­valents, mais formellement différents. Le dernier énoncé peut être produit à partir du vocabulaire et des règles PS que nous nous sommes donnés en faisant intervenir la règle SN - Pr S qui fait apparaître une nouvelle phrase S nominalisée par la préposition et incluse comme telle dans l'arbre :
 
-***Schéma***
+![alt text](https://github.com/belzepaf/Theorie_Generale/blob/master/TGSIC/figures/figures/arbo_chap_6/4.JPG "Arbre 4")
 
 On notera l'analogie de structure entre l'arbre *b* et l'arbre *c*. Pour passer de l'un à l'autre, il suffit de formuler la règle conditionnelle : Si SV → V SN Ad, alors SV → Pr S où Pr → *que* et V → *être*.
 
