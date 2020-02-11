@@ -184,15 +184,22 @@ Soit le vocabulaire suivant :
 |------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|
 | S (Phrase)<br>SN (Syntagme nominal)<br>SV (Syntagme verbal)<br>Ar (Article)<br>N (Nom)<br>Ad (Adjectif)<br>V (Verbe)<br>Pr (Préposition) | *aigre*<br>*boire*<br>*chat*<br>*être*<br>*lait*<br>*le*<br>*que*<br>*trouver* |
 
-On pose les règles suivantes :
+On pose les règles de récriture PS suivantes :
 
 S → SN SV
+
 SN → Ar N ou Ar N Ad ou Pr S
+
 SV → V SN ou V SN Ad ou V Ad
-Ar → le
+
+Ar → *le*
+
 N → *chat* ou *lait*
+
 Ad → *aigre*
+
 V → *boire* ou *être* ou *trouver*
+
 Pr → *que*
 
 On notera que le *ou* qui figure dans certaines règles, laisse une certaine *liberté de choix* à l'énonciateur. Cette liberté a un caractère *sémantique*, c'est-à-dire qu'elle permet d'introduire une *signification* ou, en d'autres termes, de produire une information mesurée par la probabilité du choix.
