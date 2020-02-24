@@ -64,18 +64,18 @@ Chaque catégorie de machine est désignée par un sigle composé d'un M suivi d
 
 1. *Machines de transmission* (effet spatial)
 
-+**M 1** : machines relais (ex. : miroir),
-+**M 2** : machines media (ex. : téléphone).
+* **M 1** : machines relais (ex. : miroir),
+* **M 2** : machines media (ex. : téléphone).
 
 2. *Machines chronologiques* (effet temporel)
 
-+**M 3** : machines à mémoire (ex. : magnétophone),
-+**M 4** : machines informatiques (ex. : ordinateur).
+* **M 3** : machines à mémoire (ex. : magnétophone),
+* **M 4** : machines informatiques (ex. : ordinateur).
 
 3. *Machines biologiques* (effet informationnel)
 
-+**M 5** : machines à comportement (organisme vivant),
-+**M 6** : machines à langage (animal hominisé).
+* **M 5** : machines à comportement (organisme vivant),
+* **M 6** : machines à langage (animal hominisé).
 
 ### LES SYSTÈMES DE COMMUNICATION
 
@@ -93,23 +93,23 @@ On notera également que le système décrit ci-dessus se divise en sous-systèm
 
 1. *Sous-système d'enregistrement*
 
-+entrée : lapin vivant,
-+sortie : image animée d'un lapin.
+* entrée : lapin vivant,
+* sortie : image animée d'un lapin.
 
 2. *Sous-système de transmission*
 
-+entrée : image animée d'un lapin,
-+sortie : onde porteuse modulée.
+* entrée : image animée d'un lapin,
+* sortie : onde porteuse modulée.
 
 3. *Sous-système de production*
 
-+entrée : consignes du producteur,
-+sortie : modification de la modulation.
+* entrée : consignes du producteur,
+* sortie : modification de la modulation.
 
 4. *Sous-système de réception*
 
-⋅⋅⋅entrée : onde porteuse modulée,
-⋅⋅⋅sortie : boucle en feedback de régulation.
+* entrée : onde porteuse modulée,
+* sortie : boucle en feedback de régulation.
 
 Remarquons qu'un sous-système se définit par le fait que sa relation avec un autre sous-système est toujours *univoque et univectorielle*. Dans l'exemple choisi, le *feedback* que l'on observe dans le sous-système de réception entre l'homme et le chien, ne peut fonctionner qu'à l'intérieur du sous-système. En l'occurrence le chien répond par un aboiement à la stimulation de l'image, et l'homme renvoie vers lui un *feedback* de régulation pour rétablir une situation homéostatique. A la rigueur il pourrait, en éteignant le récepteur, renvoyer le *feedback* vers le canal, mais seulement vers la partie du canal qui est incluse dans le sous­ système. A moins d'être particulièrement bien dressé, le chien est incapable d'éteindre le récepteur et ses réflexes sont depuis longtemps conditionnés par cette situation. Son aboiement est une manifestation de frustration qui, plus qu'au lapin de l'image, s'adresse à l'homme pour lui demander son intercession.
 
