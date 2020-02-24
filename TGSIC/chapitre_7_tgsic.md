@@ -63,12 +63,17 @@ Pour nous résumer, nous pouvons dresser le tableau des machines identifiées ci
 Chaque catégorie de machine est désignée par un sigle composé d'un M suivi d'un chiffre index. '*Toute machine est capable de remplir, en plus de ses fonctions spécifiques, toutes les fonctions des machines affectées d'un index de valeur inférieure au sien*, mais le niveau. de perfor­mance est fonction de la spécialisation.
 
 1. *Machines de transmission* (effet spatial)
+
 ⋅⋅⋅**M 1** : machines relais (ex. : miroir),
 ⋅⋅⋅**M 2** : machines media (ex. : téléphone).
+
 2. *Machines chronologiques* (effet temporel)
+
 ⋅⋅⋅**M 3** : machines à mémoire (ex. : magnétophone),
 ⋅⋅⋅**M 4** : machines informatiques (ex. : ordinateur).
+
 3. *Machines biologiques* (effet informationnel)
+
 ⋅⋅⋅**M 5** : machines à comportement (organisme vivant),
 ⋅⋅⋅**M 6** : machines à langage (animal hominisé).
 
@@ -87,15 +92,22 @@ On notera également que le système décrit ci-dessus se divise en sous-systèm
 *Figure* 6. **Exemple d'un système de communication dans un réseau télévisuel**
 
 1. *Sous-système d'enregistrement*
+
 ⋅⋅⋅entrée : lapin vivant,
 ⋅⋅⋅sortie : image animée d'un lapin.
+
 2. *Sous-système de transmission*
+
 ⋅⋅⋅entrée : image animée d'un lapin,
 ⋅⋅⋅sortie : onde porteuse modulée.
+
 3. *Sous-système de production*
+
 ⋅⋅⋅entrée : consignes du producteur,
 ⋅⋅⋅sortie : modification de la modulation.
+
 4. *Sous-système de réception*
+
 ⋅⋅⋅entrée : onde porteuse modulée,
 ⋅⋅⋅sortie : boucle en feedback de régulation.
 
