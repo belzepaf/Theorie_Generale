@@ -249,8 +249,8 @@ de l'évolution normale de chaque langue, le nombre minimum de siècles MC à pa
 
 <b id="f20">20</b> : Voir R. ESCARPIT, *École laïque, école du peuple*, Paris, 1961, pp. 33 à 46.[↩](#a20)
 
-<b id="f21">21</b> : 1 Pierre, 5.3.[↩](#a21)
+<b id="f21">21</b> : I Pierre, 5.3.[↩](#a21)
 
-<b id="f22">22</b> : l'Occitanie![↩](#a22)
+<b id="f22">22</b> : L'expression est du professeur Robert Lafont, grand défenseur de l'Occitanie! [↩](#a22)
 
-<b id="f23">23</b> : Ce débat a été en 1974 et 1975 un des thèmes de discussion du Comité français des Sciences de l'Information et de la Conimunication.[↩](#a23)
+<b id="f23">23</b> : Ce débat a été en 1974 et 1975 un des thèmes de discussion du Comité français des Sciences de l'Information et de la Communication.[↩](#a23)
