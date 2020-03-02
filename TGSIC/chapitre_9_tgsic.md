@@ -64,8 +64,11 @@ L'analyse prévisionnelle et le jugement sélectif qui en découle supposent une
 On raconte que Gladstone, rentrant seul du temple, eut avec sa femme la conversation suivante:
 
 >De quoi a parlé le pasteur?
+
 >Du péché.
+
 >Qu'en a-t-il dit?
+
 >Il était contre.
 
 L'information donnée par Gladstone était parfaitement exacte et même pertinente. Pourtant il est probable qu'elle n'a pas dû satisfaire Mme Gladstone, car elle était redondante: un pasteur par définition est préoccupé du péché et lui est hostile.
