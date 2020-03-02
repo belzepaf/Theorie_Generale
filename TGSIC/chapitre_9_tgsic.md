@@ -4,7 +4,7 @@
 
 Notre civilisation se caractérise par une croissance exponentielle	des documents et semi-documents qu'elle crée. 
 
-On peut estimer à quelque 2 x 1011 par an le nombre de *bits* mis en mémoire par l'imprimerie dans les quelques décennies qui ont suivi sa mise en œuvre. Pour autant qu'on puisse l'évaluer, ce chiffre serait de nos jours de l'ordre de 2 X 1016, soit cent mille fois plus élevé. Encore ne peut-on entièrement tenir compte de tous les imprimés éphémères périodiques, semi-périodiques ou non périodiques dont le nombre semble décupler tous les demi-siècles<sup id="a1">[1](#f1)</sup> à mesure que le savoir humain, en se développant et en. se diversifiant, devient plus périssable et donc plus étroitement soumis à l'érosion du temps.
+On peut estimer à quelque 2 x 1011 par an le nombre de *bits* mis en mémoire par l'imprimerie dans les quelques décennies qui ont suivi sa mise en œuvre. Pour autant qu'on puisse l'évaluer, ce chiffre serait de nos jours de l'ordre de 2 x 1016, soit cent mille fois plus élevé. Encore ne peut-on entièrement tenir compte de tous les imprimés éphémères périodiques, semi-périodiques ou non périodiques dont le nombre semble décupler tous les demi-siècles<sup id="a1">[1](#f1)</sup> à mesure que le savoir humain, en se développant et en. se diversifiant, devient plus périssable et donc plus étroitement soumis à l'érosion du temps.
 
 A cela il faut ajouter la frange toujours grandissante de ce que Jean Meyriat appelle les « quasi-livres » et les « non-livres » obtenus par les divers procédés de reprographie. Depuis les années 60, ce qu'on peut appeler la « révolution Xérox »<sup id="a2">[2](#f2)</sup> a placé l'écrit sur support papier au niveau d'efficacité et de mobilité des autres moyens modernes de communication.
 
