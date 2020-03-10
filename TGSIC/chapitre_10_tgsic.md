@@ -74,29 +74,29 @@ groupe b par des tableaux à double entrée où les influences partant d'un
 individu et arrivant à un autre individu seront notées par des valeurs
 obtenues en suivant le trajet des lignes fléchées.
 
-| | | |**Groupe a** | | ||
+|  | Groupe a |  |  |  |  |  |  |
 |-------------------------|--------------|-----|-----|-----|-----|---|--------------|
-|  | Arrivant à : | |||| | Bilan |
-| Influences partant de : | **A** | **B** | **C** | **D** | **E** |  |  |
-| **A** | 0 | 1/2 | 1 | 1 | 1/2 | 3 | A: 3 - 3 = 0 |
-| **B** | 1 | 0 | 1/2 | 1 | 1/2 | 3 | B: 3 - 3 = 0 |
-| **C** | 1/2 | 1 | 0 | 1/2 | 1 | 3 | C: 3 - 3 = 0 |
-| **D** | 1/2 | 1/2 | 1 | 0 | 1 | 3 | D: 3 - 3 = 0 |
-| **E** | 1 | 1 | 1/2 | 1/2 | 0 | 3 | E: 3 - 3 = 0 |
+|  | Arrivant à : |  |  |  |  |  | Bilan |
+| Influences partant de : | A | B | C | D | E |  |  |
+| A | 0 | 1/2 | 1 | 1 | 1/2 | 3 | A: 3 - 3 = 0 |
+| B | 1 | 0 | 1/2 | 1 | 1/2 | 3 | B: 3 - 3 = 0 |
+| C | 1/2 | 1 | 0 | 1/2 | 1 | 3 | C: 3 - 3 = 0 |
+| D | 1/2 | 1/2 | 1 | 0 | 1 | 3 | D: 3 - 3 = 0 |
+| E | 1 | 1 | 1/2 | 1/2 | 0 | 3 | E: 3 - 3 = 0 |
 |  | 3 | 3 | 3 | 3 | 3 |  |  |
 
 Le bilan est *le même* pour tous les individus du groupe et égal à O. Le groupe a est un groupe *égalitaire*.
 
-|  | **Groupe b** |  |
+|  | Groupe b |  |  |  |  |  |  |
 |-------------------------|--------------|-----|-----|-----|-----|---|--------------|
-|  | Arrivant à : |  | Bilan |
-| Influences partant de : | **A** | **B** | **C** | **D** | **E** |  |  |
-| **A** | 0 | 1/2 | 1 | 1 | 1/2 | 3*1/2 | A: 3*1/2 - 2*1/3 = 1*1/6 |
-| **B** | 1/2 | 0 | 1/3 | 1/2 | 1 | 2*1/3 | B: 2*1/3 - 3*1/2 = -1*1/6 |
-| **C** | 1/2 | 1 | 0 | 1/2 | 1 | 3 | C: 3 - 2*5/6 = 1/6 |
-| **D** | 1/3 | 1 | 1 | 0 | 1/2 | 2*5/6 | D: 2*5/6 - 3 = -1/6 |
-| **E** | 1 | 1/2 | 1/2 | 1 | 0 | 3 | E: 3 - 3 = 0 |
-|  | 2*1/3 | 3*1/2 | 2*5/6 | 3 | 3 |  |  |
+|  | Arrivant à : |  |  |  |  |  | Bilan |
+| Influences partant de : | A | B | C | D | E |  |  |
+| A | 0 | 1/2 | 1 | 1 | 1/2 | 3x1/2 | A: 3x1/2 - 2x1/3 = 1x1/6 |
+| B | 1/2 | 0 | 1/3 | 1/2 | 1 | 2x1/3 | B: 2x1/3 - 3x1/2 = -1x1/6 |
+| C | 1/2 | 1 | 0 | 1/2 | 1 | 3 | C: 3 - 2x5/6 = 1/6 |
+| D | 1/3 | 1 | 1 | 0 | 1/2 | 2x5/6 | D: 2x5/6 - 3 = -1/6 |
+| E | 1 | 1/2 | 1/2 | 1 | 0 | 3 | E: 3 - 3 = 0 |
+|  | 2x1/3 | 3x1/2 | 2x5/6 | 3 | 3 |  |  |
 
 Le bilan est *différent* pour les différents-individus du groupe. Le groupe b est un groupe *hiérarchisé*, la hiérarchie étant A, C, E, D, B, A est le *leader* du groupe.
 
