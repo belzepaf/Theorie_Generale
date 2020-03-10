@@ -207,7 +207,7 @@ Les deux derniers exemples s'inscrivaient dans la grande tradition française de
 C'est pourquoi les premiers théoriciens de la communication de masse des années 30, aveuglés par le danger univectoriel, ont fondé leurs analyses sur un modèle de communication linéaire. Un tel modèle est impliqué par les fameuses cinq questions formulées en 1934 par Harold D. Lasswell et adaptées par lui en 1948 à la théorie de l'information : « *Qui* dit *quoi*, à *qui*, par *quel canal*, avec *quels effets*?»<sup id="a44">[44](#f44)</sup>. Ces questions permettent de définir l'étude de la communication de masse par une grille à cinq mailles: 
 
 1. Analyse de contrôle ou de régulation (la source),
-2. Analyse de. contenu (le message),
+2. Analyse de contenu (le message),
 3. Analyse d'audience (la masse ?),
 4. Analyse de système (l'appareil),
 5. Analyse d'effets (l'influence).
