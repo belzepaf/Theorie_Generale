@@ -74,9 +74,9 @@ groupe b par des tableaux à double entrée où les influences partant d'un
 individu et arrivant à un autre individu seront notées par des valeurs
 obtenues en suivant le trajet des lignes fléchées.
 
-|  | **Groupe a** |  |
+| | | |**Groupe a** | | ||
 |-------------------------|--------------|-----|-----|-----|-----|---|--------------|
-|  | Arrivant à : |  | Bilan |
+|  | Arrivant à : | |||| | Bilan |
 | Influences partant de : | **A** | **B** | **C** | **D** | **E** |  |  |
 | **A** | 0 | 1/2 | 1 | 1 | 1/2 | 3 | A: 3 - 3 = 0 |
 | **B** | 1 | 0 | 1/2 | 1 | 1/2 | 3 | B: 3 - 3 = 0 |
